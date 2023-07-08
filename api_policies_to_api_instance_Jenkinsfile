@@ -1,5 +1,9 @@
 ApplyPoliciesToAPIInstanceWrapper(
 businessGroupId:'b715fb87-04a0-4dc9-8f48-94ff47d8354e',
 env: ['Sandbox': 'Sandbox'],
-envId: ['Sandbox': 'd3bfd4e3-efb2-43c9-9273-e0f9bad761a2']
+envId: ['Sandbox': 'd3bfd4e3-efb2-43c9-9273-e0f9bad761a2'],
+pod_name: [
+'Sandbox': 'mule-
+mulesoft-jenkins-ci-cd-pod-Sandbox'
+]
 )
